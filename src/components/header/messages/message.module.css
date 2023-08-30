@@ -1,0 +1,45 @@
+.message{
+    margin-left: 14rem;
+    margin-top: 5rem;
+
+}
+
+.messageText{
+    width: 25vw;
+}
+.inputField{
+    background-color: rgba(243, 243, 243, 0.60);
+    width: 40vw;
+    border-radius: 4px;
+    display: flex;
+    margin-top: 2rem;
+
+}
+input[type="text"]{
+    border: none;
+    outline: none;
+    background-color:  transparent;
+}
+
+.dropdown{
+    border: none;
+    outline: none;
+    background-color:  transparent;
+}
+.submitButton{
+    margin: 15px 0 15px 3rem;
+}
+select{
+    margin: 10px;
+    color: white;
+    font-size: 15px;
+}
+
+.personImages{
+    margin-right: -10px;
+    margin-top: 1rem;
+}
+input::placeholder {
+    color: white;
+}
+

@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    margin-top: 3rem;
+    margin-left: 14rem;
+    gap: 10rem;
+}
+
+.innerFlexNavbar{
+    display: flex;
+    gap: 3rem;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+.arrowImage{
+    margin-left: 15px;
+}
