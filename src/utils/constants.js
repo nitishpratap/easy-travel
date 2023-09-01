@@ -15,6 +15,11 @@ import tourGuide from '../assets/images/tour-guide.png'
 import aeroplane from '../assets/images/aeroplane.png'
 import namaste from '../assets/images/namaste.png'
 import medical from '../assets/images/medical-team.png'
+import honymoon1 from '../assets/images/honymoon-1.png'
+import honymoon2 from '../assets/images/honymoon-2.png'
+import honymoon3 from '../assets/images/honymoon-3.png'
+import honymoon4 from '../assets/images/honymoon-4.png'
+
 
 export const Images = {
 
@@ -35,6 +40,10 @@ export const Images = {
     aeroplane : aeroplane,
     namaste : namaste,
     medical : medical,
+    honymoon1 : honymoon1,
+    honymoon2 : honymoon2,
+    honymoon3 : honymoon3,
+    honymoon4 : honymoon4,
 }
 
 export const travelTypeDropdown = [

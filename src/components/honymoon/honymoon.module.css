@@ -1,0 +1,40 @@
+.honymoon {
+    margin-top: 8rem;
+   margin-left: 11rem;
+}
+
+.image {
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    gap : 6rem;
+    align-items: center;
+}
+
+.honymoonKissingImg {
+    border-top-right-radius: 10rem;
+    border-top-left-radius: 10rem;
+}
+
+.honymoonKissing {
+    margin-left: 9rem;
+}
+
+.forehead {
+    position: absolute;
+    left: 2rem;
+    bottom: 30rem;
+}
+.hug{
+    position: absolute;
+    bottom: 10rem;
+    left: -6rem;
+}
+.circle{
+    position: absolute;
+    bottom: 32rem;
+    left : 13rem
+}
+.honymoonSpecial{
+    margin-right : 10rem
+}
